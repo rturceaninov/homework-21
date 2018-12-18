@@ -1,0 +1,24 @@
+{
+  "name": "homework-21",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^5.10.0",
+    "bootstrap": "^4.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rturceaninov/homework-21.git"
+  },
+  "author": "Ruslan Turceaninov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rturceaninov/homework-21/issues"
+  },
+  "homepage": "https://github.com/rturceaninov/homework-21#readme"
+}

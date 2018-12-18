@@ -1,0 +1,29 @@
+html{
+    font-size: 100%;
+    text-align-last: center;
+}
+ *{
+    box-sizing: border-box;
+}
+.b1, .b2, .b3{
+    font-weight: bold;
+    color: white;
+    height: 30px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+.b1 {
+    background: blue;     
+    border: 2px solid lightblue;
+    
+  }
+.b2{
+    background: green;
+    border: 2px solid lightgreen;
+   
+}
+.b3{
+    background: red;
+    border: 2px solid lightpink;
+}
